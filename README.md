@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/BqsX9NT.png" width="300" height="300" alt="mitt">
     <br>
     <a href="https://deno.land/x/mitt"><img src="https://shield.deno.dev/x/mitt" alt="deno module"></a>
-    <a href="https://deno.land/x/mitt"><img src="https://deno.bundlejs.com/?q=https://deno.land/x/mitt/src/index.ts&badge=" alt="gzip size"></a>
+    <a href="https://deno.land/x/mitt"><img src="https://deno.bundlejs.com/badge?q=https://deno.land/x/mitt/mod.ts" alt="gzip size"></a>
 </p>
 
 # Mitt
