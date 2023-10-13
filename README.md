@@ -173,4 +173,4 @@ Note: Manually firing "\*" handlers is not supported.
 
 ## License
 
-[MIT License](https://opensource.org/licenses/MIT) © [Jason Miller](https://jasonformat.com/), [Petr Kolonicz](https://github.com/hex2w)
+[MIT License](https://opensource.org/licenses/MIT) © [Jason Miller](https://jasonformat.com/), [Petr Kolonicz](https://github.com/hexrw)
